@@ -78,10 +78,7 @@ I combine quantitative modelling, experimental methodologies, and data science t
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimigarcia&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimigarcia&layout=compact&theme=tokyonight" height="165"/>
-</p>
+![Dimitris' GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimigarcia&theme=default)
 
 ---
 
