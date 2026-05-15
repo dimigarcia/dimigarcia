@@ -1,4 +1,4 @@
-# Hi, I'm Dimitris Georgantzis Garcia 👋
+# Hi, I'm Dimitris Georgantzis Garcia 👋 
 
 *Ph.D. Management | MSci Mathematics & Physics | MSc Data Science (ongoing)*
 
@@ -51,9 +51,9 @@ I combine quantitative modelling, experimental methodologies, and data science t
 
 - *Stated sustainability preferences and behavioural types in the Armageddon game* (job market paper, 2026)
 - *Other‑Regarding Higher Order Risk Preferences* (with A. Drichoutis & A. Vasilopoulos, 2026) – forthcoming.
-- *Consumption in the Circular Economy: Learning from Our Mistakes* – *Sustainability* (2021) [55 citations]
-- *Urban Mining of e‑Waste and the Role of Consumers* – In *Waste Material Recycling in the Circular Economy*, IntechOpen (2021) [4 citations]
-- *Optical triangulations of curved spaces* – *Optica* (2020) [12 citations]
+- *Consumption in the Circular Economy: Learning from Our Mistakes* – *Sustainability* (2021) [55 citations] – [DOI:10.3390/su13020601](https://doi.org/10.3390/su13020601)
+- *Urban Mining of e‑Waste and the Role of Consumers* – In *Waste Material Recycling in the Circular Economy*, IntechOpen (2021) [4 citations] – [DOI:10.5772/intechopen.100363](https://doi.org/10.5772/intechopen.100363)
+- *Optical triangulations of curved spaces* – *Optica* (2020) [12 citations] – [DOI:10.1364/OPTICA.378357](https://doi.org/10.1364/OPTICA.378357)
 
 ## 🔍 Peer Review
 
@@ -76,12 +76,6 @@ I combine quantitative modelling, experimental methodologies, and data science t
 
 ---
 
-## 📊 GitHub Stats
-
-![Dimitris' GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimigarcia&theme=default)
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimigeorgantzisgarcia)
@@ -99,5 +93,14 @@ Music producer & performer (20+ years)
 
 - 🎸 **Primo Bake** – [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2v0TUai2TvqU1BHBFNJAJG) [![Bandcamp](https://img.shields.io/badge/-Bandcamp-629AA9?style=flat-square&logo=bandcamp&logoColor=white)](https://primobake.bandcamp.com/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/primobaked)
 
+---
 
-**
+## 📊 GitHub Stats
+
+![Dimitris' GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimigarcia&theme=default)
+
+---
+
+> *"I am enough of the artist to draw freely upon my imagination. [...] Knowledge is limited. Imagination encircles the world."*
+
+> *-Albert Einstein, The Saturday Evening Post, 26 Oct. 1929*
