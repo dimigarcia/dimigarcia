@@ -1,4 +1,4 @@
-# Hi, I'm Dimitris Georgantzis Garcia 👋
+# Dimitris Georgantzis Garcia
 
 *Ph.D. Management | MSci Mathematics & Physics | MSc Data Science & AI (ongoing)*
 
@@ -10,7 +10,7 @@ Outside academic work, I produce and perform music, work on recording and sound 
 
 ---
 
-## 🧰 Technical Skills
+## <img src="https://api.iconify.design/ph/toolbox-duotone.svg?color=%23A78BFA" width="24" alt="Toolbox icon"> Technical Skills
 
 **Programming and data analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -35,7 +35,7 @@ Outside academic work, I produce and perform music, work on recording and sound 
 
 ---
 
-## 🧭 Academic Profile
+## <img src="https://api.iconify.design/ph/compass-duotone.svg?color=%23A78BFA" width="24" alt="Compass icon"> Academic Profile
 
 **Research areas**
 
@@ -58,7 +58,7 @@ Outside academic work, I produce and perform music, work on recording and sound 
 
 ---
 
-## 🎓 Education
+## <img src="https://api.iconify.design/ph/graduation-cap-duotone.svg?color=%23A78BFA" width="24" alt="Graduation cap icon"> Education
 
 - **Ph.D. in Management** — *University of Sheffield, 2024*  
   Thesis: *The role of consumer perception and behaviour in the transition towards the circular economy*
@@ -72,7 +72,7 @@ Outside academic work, I produce and perform music, work on recording and sound 
 
 ---
 
-## 🔬 Current Research
+## <img src="https://api.iconify.design/ph/microscope-duotone.svg?color=%23A78BFA" width="24" alt="Microscope icon"> Current Research
 
 My current research extends my doctoral work on sustainable consumer behaviour toward behavioural and experimental economics. I am particularly interested in whether stated sustainability preferences can meaningfully predict observed behaviour in laboratory settings, especially when sustainability is modelled as a social dilemma or common-pool resource problem.
 
@@ -80,7 +80,7 @@ This work connects consumer behaviour research, which often relies on self-repor
 
 ---
 
-## 📄 Selected Publications & Working Papers
+## <img src="https://api.iconify.design/ph/files-duotone.svg?color=%23A78BFA" width="24" alt="Files icon"> Selected Publications & Working Papers
 
 - *Stated sustainability preferences and behavioural types in the Armageddon game* — job market paper
 - *Other-Regarding Higher Order Risk Preferences* — with A. Drichoutis and A. Vasilopoulos
@@ -90,7 +90,7 @@ This work connects consumer behaviour research, which often relies on self-repor
 
 ---
 
-## 🧪 Research & Academic Activity
+## <img src="https://api.iconify.design/ph/flask-duotone.svg?color=%23A78BFA" width="24" alt="Flask icon"> Research & Academic Activity
 
 - Lab Assistant, 2nd Summer School on Experimental and Behavioural Economics, Crete, 2025
 - Co-supervision of a Master's thesis at UPC on virtual reality as a tool for experimental economics
@@ -99,7 +99,7 @@ This work connects consumer behaviour research, which often relies on self-repor
 
 ---
 
-## 📊 Data Science Projects
+## <img src="https://api.iconify.design/ph/chart-line-up-duotone.svg?color=%23A78BFA" width="24" alt="Chart line icon"> Data Science Projects
 
 ### [Exploring Sustainable Wellbeing](https://github.com/dimigarcia/wellbeing_efficiency_project)
 
@@ -113,7 +113,7 @@ The project builds a harmonised country-year panel from public datasets on wellb
 
 ---
 
-## 🎧 Beyond Research
+## <img src="https://api.iconify.design/ph/headphones-duotone.svg?color=%23A78BFA" width="24" alt="Headphones icon"> Beyond Research
 
 Music has been a long-standing part of my work and identity. I have experience in production, performance, recording, live sound, event organisation and independent releases.
 
@@ -125,14 +125,14 @@ Music has been a long-standing part of my work and identity. I have experience i
 
 ---
 
-## 🤝 Contact
+## <img src="https://api.iconify.design/ph/handshake-duotone.svg?color=%23A78BFA" width="24" alt="Handshake icon"> Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimigeorgantzisgarcia)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimi.g.garcia@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/ph/chart-bar-duotone.svg?color=%23A78BFA" width="24" alt="Chart bar icon"> GitHub Stats
 
 ![Dimitris' GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimigarcia&theme=default)
 
