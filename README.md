@@ -104,7 +104,7 @@ This work connects consumer behaviour research, which often relies on self-repor
 
 ---
 
-## <img src="https://api.iconify.design/ph/chart-line-up-duotone.svg?color=%23A78BFA" width="24" alt="Chart line icon"> <img src="https://api.iconify.design/ph/database-duotone.svg?color=%23A78BFA" width="24" alt="Database icon"> Data Science & SQL Projects
+## <img src="https://api.iconify.design/ph/database-duotone.svg?color=%23A78BFA" width="24" alt="Database icon"> Data Science & SQL Projects
 
 ### [Spotify Track Positioning Analytics](https://github.com/dimigarcia/spotify_track_positioning_mysql)
 
