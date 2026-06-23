@@ -1,4 +1,7 @@
-# Dimitris Georgantzis Garcia
+<h1>
+  <img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%23A78BFA" width="32" alt="Portfolio icon">
+  Dimitris Georgantzis Garcia — Research & Data Portfolio
+</h1>
 
 *Ph.D. Management | MSci Mathematics & Physics | MSc Data Science & AI (ongoing)*
 
@@ -6,19 +9,20 @@ I am a researcher working across sustainability, consumer behaviour, behavioural
 
 My current interests centre on how sustainable behaviour is conceptualised, measured and observed. This includes the intention–behaviour gap, stated sustainability preferences, behavioural types in social dilemmas, common-pool resource settings, and the external validity of experimental and survey-based measures. I am also developing reproducible data science workflows that support empirical research on sustainability, wellbeing and resource use.
 
-Outside academic work, I produce and perform music, work on recording and sound engineering, and co-manage independent cultural projects.
+This page collects selected research, data-analysis projects, publications, academic activity and creative work.
 
 ---
 
 ## <img src="https://api.iconify.design/ph/toolbox-duotone.svg?color=%23A78BFA" width="24" alt="Toolbox icon"> Technical Skills
 
-**Programming and data analysis**  
+**Programming, data analysis and databases**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A3E6D?style=flat-square)
 
-**Research and writing**  
+**Research and modelling**  
 ![Experimental Design](https://img.shields.io/badge/Experimental_Design-1A4A6B?style=flat-square)
 ![Survey Methods](https://img.shields.io/badge/Survey_Methods-4B5563?style=flat-square)
 ![SEM](https://img.shields.io/badge/Structural_Equation_Modelling-374151?style=flat-square)
@@ -40,21 +44,22 @@ Outside academic work, I produce and perform music, work on recording and sound 
 **Research areas**
 
 - Sustainable consumption and circular economy transitions.
-- Consumer perception, intentions and behaviour.
+- Consumer perception, decision-making and behaviour.
 - Behavioural and experimental economics.
-- Social dilemmas and common-pool resource experiments.
-- Stated preferences, survey measurement and observed behaviour.
-- Wellbeing, inequality, emissions and material-resource use.
-- Reproducible data analysis for empirical research.
+- Social dilemmas and common-pool resource settings.
+- Stated preferences, intentions and observed behaviour.
+- Wellbeing, inequality and sustainable resource use.
+- Experimental and survey-based measurement of sustainability-related behaviour.
 
 **Methodological background**
 
 - Experimental design and laboratory implementation.
-- Survey design and psychometric measurement.
+- Survey design, psychometric measurement and scale development.
 - Structural equation modelling and mixed-effects modelling.
+- Relational database design, SQL querying and data-quality checks.
 - Data cleaning, feature engineering and exploratory analysis.
 - Theoretical modelling and quantitative reasoning.
-- Reproducible Python and R workflows.
+- Reproducible Python, R and SQL workflows.
 
 ---
 
@@ -99,15 +104,21 @@ This work connects consumer behaviour research, which often relies on self-repor
 
 ---
 
-## <img src="https://api.iconify.design/ph/chart-line-up-duotone.svg?color=%23A78BFA" width="24" alt="Chart line icon"> Data Science Projects
+## <img src="https://api.iconify.design/ph/chart-line-up-duotone.svg?color=%23A78BFA" width="24" alt="Chart line icon"> <img src="https://api.iconify.design/ph/database-duotone.svg?color=%23A78BFA" width="24" alt="Database icon"> Data Science & SQL Projects
+
+### [Spotify Track Positioning Analytics](https://github.com/dimigarcia/spotify_track_positioning_mysql)
+
+A portfolio-style MySQL project modelling a Spotify track dataset as a relational database and using SQL EDA to examine track, artist, album, genre and audio-profile positioning.
+
+**What it demonstrates:** relational schema design, dimensional modelling, raw-data import, data-quality checks, audit tables, bridge tables, SQL views, analytical querying and project documentation.
+
+**Tools:** MySQL, MySQL Workbench, SQL, Python, Git/GitHub.
 
 ### [Exploring Sustainable Wellbeing](https://github.com/dimigarcia/wellbeing_efficiency_project)
 
-A reproducible Python project investigating whether countries can achieve high subjective wellbeing with lower environmental and material pressure.
+A reproducible Python project exploring whether countries can achieve high subjective wellbeing with lower environmental and material pressure.
 
-The project builds a harmonised country-year panel from public datasets on wellbeing, inequality, emissions, energy use, material footprint and country classifications. It then applies data cleaning, feature engineering and exploratory visualisation to examine wellbeing-efficiency, emissions-accounting gaps, material-resource intensity and inequality-adjusted wellbeing.
-
-**What it demonstrates:** data cleaning, dataset construction, country-year panel harmonisation, feature engineering, exploratory analysis, modular Python code and reproducible notebooks.
+**What it demonstrates:** dataset construction, country-year panel harmonisation, data cleaning, feature engineering, exploratory analysis, modular Python code and reproducible notebooks.
 
 **Tools:** Python, pandas, NumPy, Matplotlib, Jupyter, Git/GitHub.
 
